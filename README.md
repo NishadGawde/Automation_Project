@@ -5,6 +5,6 @@ The project aims in creation of the apache2, where it checks if the service is e
 
 The next is the creation of tar file of the error/access logs which is then uploaded from tmp folder to the S3 bucket
 
-Also here we create a inventory and corn file for a consolidated logs view 
+Also here we create a inventory and corn file if not exist already for a consolidated logs view 
 
 
